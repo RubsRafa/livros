@@ -1,0 +1,14 @@
+main {
+  max-width: 80%;
+  margin-inline: auto;
+  margin-top: 1rem;
+}
+
+.nav {
+  background-color: black;
+  color: white;
+}
+
+.a {
+  color: white;
+}
